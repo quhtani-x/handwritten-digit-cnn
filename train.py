@@ -1,5 +1,6 @@
 import tensorflow as tf
 from tensorflow.keras import layers, models
+# DISCLAIMER , some  of the comments has been added by Ai as my code didnt have much comments and i told the Ai to explain the code , also remove dead commented code
 
 # trains a convolutional neural network to read handwritten digits (MNIST).
 # this is the "real" deep learning version, gets ~99% accuracy.
